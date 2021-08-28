@@ -1,0 +1,2 @@
+# Product-design-and-marketing-strategies-evaluation
+Nowadays, almost every company will have some data related positions. Big data is the theme of this era and more and more managers realize the power of data, especially those from their own business. Not only data can help them keep track of their business performance, but also it can help them evaluate their marketing strategies, especially product design and customer clustering. For this project, I choose a Kaggle dataset of an automobile company who wants to enter a new market.
